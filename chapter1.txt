@@ -4,3 +4,13 @@ we have to move those files into stagin area
 to chekc whether our files are in staging area or not is git status command
 
 to add our file into staging area we need git add command
+
+to commit the changes we did in our file, we can use git commit command
+
+to add message with commit we can write git commit -m "your_message"
+
+Good practice to write commit messages in present tense
+
+we can view the track of commits by using git log command
+
+
