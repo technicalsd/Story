@@ -1,0 +1,6 @@
+For keep tracking of particular files in current working directory through git,
+we have to move those files into stagin area 
+
+to chekc whether our files are in staging area or not is git status command
+
+to add our file into staging area we need git add command
